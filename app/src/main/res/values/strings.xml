@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Perrito</string>
+    <string name="telefono">9</string>
+    <string name="pnombre">nombre</string>
+    <string name="likes">likes</string>
+    <string name="plikes">0</string>
+
+    <!-- Datos -->
+    <string name="yari">Lourdes Yaritza Pech Tamay</string>
+    <string name="estado">Yucatán, México</string>
+    <string name="estudios">Ingenieria Informática</string>
+
+    <!-- Contacto -->
+    <string name="contacto">Contacto</string>
+    <string name="nombreCont">Nombre</string>
+    <string name="correoCont">Correo</string>
+    <string name="mensajeCont">Mensaje</string>
+    <string name="botonEnviar">Enviar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
